@@ -3,6 +3,7 @@
 - **Adress** Kyiv
 - **TEL** +380937462103
 - **Email** orestyt@gmail.com
+- **Telegram** [@danotyt](https://t.me/danotyt)
 - **Birthday** 25.04.2000
 - **Sex** Male
 
