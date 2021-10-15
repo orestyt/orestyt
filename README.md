@@ -12,15 +12,15 @@ At the moment I work in IT company Svialcom in position of junior tester. It's g
 
 ## Work experience 
 
-July 2021 - at this moment 
-*Junior tester*
+**July 2021 - at this moment**  
+*Junior tester*  
 *Svialcom, Kyiv*
 
 ## Education
 
-September 2017 - July 2021
-*Bachelor*
-*Kiev Polytechnical Institute*
+**September 2017 - July 2021**  
+*Bachelor*  
+*Kiev Polytechnical Institute*  
 *Computer Science*
 
 ## Skills
