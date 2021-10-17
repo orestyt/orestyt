@@ -9,7 +9,7 @@
 
 ## About me
 
-At the moment I work in IT company Svialcom in position of junior tester. It's great work, but I really want to move forvard and to not stay at one place, so I would love to work at your company for free a bit, to upgrade my skills and become QA. Hope for your feedback =)
+I aim to become senior QA. My passion is learning about new stuff, self impovement and hard work. While studying in KPI I learnt how to work with databases, basic C++, Java and Python, which I really liked. I also have a few hobbies, which all connected with PC and IT, such as gaming, modding and streaming
 
 ## Work experience 
 
@@ -30,3 +30,8 @@ At the moment I work in IT company Svialcom in position of junior tester. It's g
 - Trello 
 - PostMan 
 - Testcase
+- MySQL
+- Java
+- Django
+- HTML/CSS
+- Good communication
