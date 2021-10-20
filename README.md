@@ -9,7 +9,7 @@
 
 ## About me
 
-I aim to become senior QA. My passion is learning about new stuff, self impovement and hard work. While studying in KPI I learnt how to work with databases, basic C++, Java and Python, which I really liked. I also have a few hobbies, which all connected with PC and IT, such as gaming, modding and streaming
+My passion is learning about new stuff, self impovement and hard work. While studying in KPI I learnt how to work with databases, basic C++, Java and Python, which I really liked. I also have a few hobbies, which all connected with PC and IT, such as gaming, modding and streaming
 
 ## Work experience 
 
