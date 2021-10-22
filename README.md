@@ -16,6 +16,7 @@ My passion is learning about new stuff, self impovement and hard work. While stu
 **July 2021 - at this moment**  
 *Junior tester*  
 *Svialcom, Kyiv*
+
 In my current position I am responsible for making Testcases and going through them. We are making a softwares for the aircompanies of Ukraine and my part of work, is to make sure, that programm runs well and meet the requirements of our clients.
 
 ## Education
