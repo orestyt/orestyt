@@ -25,13 +25,20 @@ My passion is learning about new stuff, self impovement and hard work. While stu
 *Computer Science*
 
 ## Skills
+ Strong
+- English (B1)
+- Making testcase
 
-- English 
-- Trello 
+ Familiar with
 - PostMan 
-- Testcase
-- MySQL
+- Python/Django
+- C++
 - Java
-- Django
+- MySQL
 - HTML/CSS
+
+## Soft Skills
 - Good communication
+- Get along with people
+- Fast learning
+- Hard-working
